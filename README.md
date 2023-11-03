@@ -1,5 +1,7 @@
-价格来源为Exilence-tx。
-根据github exilence-next开源修改后，支持了国服的物品统计。
+价格来源为Exilence-tx，赛季价格数据为price.json。
+这份数据一小时更新一次，客户端内价格数据为10分钟更新一次。
+
+Exilence-tx是根据github exilence-next开源修改后，支持了国服物品统计收益的插件。
 实现了价格数据的归类获取，形成了这一份价格数据。
 需要使用该数据的，请标明数据来源，谢谢。
 
