@@ -1,6 +1,6 @@
 import json
 
-# 打开 JSON 文件并加载数据1
+# 打开 JSON 文件并加载数据1123
 with open('price.json', 'r') as json_file:
     data = json.load(json_file)
 
