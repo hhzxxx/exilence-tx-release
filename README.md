@@ -17,6 +17,6 @@ Exilence-tx是根据github exilence-next开源修改后，支持了国服物品�
 * 计时器，刷图自动计时（准确度与游戏内计时地图仪大致相同），刷图日志记录
 * 类似poestack的物品大宗上架交易，开放测试版本，支持了圣甲虫、精华、罗盘等种类物品
 
-[下载链接地址](https://pub-feb51ef2e03741399e6a3d2d09a07601.r2.dev/Exilence Next-Setup-Latest.exe)，链接打不开的进群下载，最新的内测版本也只在群文件发布。
+[下载链接地址](<https://pub-feb51ef2e03741399e6a3d2d09a07601.r2.dev/Exilence Next-Setup-Latest.exe>)，链接打不开的进群下载，最新的内测版本也只在群文件发布。
 
 Exilence-tx使用反馈群：632300239，有使用方面的问题也可进群咨询。
