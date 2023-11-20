@@ -8,7 +8,7 @@
 
 ## Exilence-tx
 
-Exilence-tx是根据github exilence-next开源修改后，支持了国服物品统计收益的插件。实现了价格数据的归类获取，形成了这一份价格数据。
+Exilence-tx是根据github exilence-next开源修改后，支持了国服物品统计收益的插件,并且新增大量新的特性。实现了价格数据的归类获取，形成了这一份价格数据。
 
 ### 目前已完成的特性
 
